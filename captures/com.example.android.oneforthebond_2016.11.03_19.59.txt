@@ -1,0 +1,35 @@
+Applications Memory Usage (kB):
+Uptime: 12728621 Realtime: 17438113
+
+** MEMINFO in pid 12490 [com.example.android.oneforthebond] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap        0        0        0        0    12288     6785     5502
+  Dalvik Heap     4782     4576        0        0    12312    11548      764
+ Dalvik Other      436      360        0        0                           
+        Stack      152      152        0        0                           
+      Gfx dev     1556     1540        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap      810      304      136        0                           
+    .apk mmap      160        0       12        0                           
+    .ttf mmap       41        0       20        0                           
+    .dex mmap     2732        0     2628        0                           
+    .oat mmap      833        0      140        0                           
+    .art mmap     2127     1948       24        0                           
+   Other mmap       25        4        0        0                           
+      Unknown     4533     4488        0        0                           
+        TOTAL    18192    13372     2964        0    24600    18333     6266
+ 
+ Objects
+               Views:       61         ViewRootImpl:        2
+         AppContexts:        3           Activities:        1
+              Assets:        2        AssetManagers:        2
+       Local Binders:       18        Proxy Binders:       17
+       Parcel memory:        4         Parcel count:       16
+    Death Recipients:        0      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

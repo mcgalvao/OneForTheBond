@@ -1,0 +1,7 @@
+#Fri Nov 04 01:24:15 BRST 2016
+base.0=/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eb04b439d1d056e12c41bfeda147126c3c081bbf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f7e3a15f5aea6134753f03640600c7520a3a02d3/classes.dex
+base.1=/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f7e3a15f5aea6134753f03640600c7520a3a02d3
+file.0=/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eb04b439d1d056e12c41bfeda147126c3c081bbf/classes.dex

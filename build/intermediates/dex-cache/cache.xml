@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ddd7808ed02da3c2fee5586e9b622d2238b16e1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_3aa919752a68caffd3b4df215689775843cf81f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_428a84773e39fcc43c5da1c0b1da6f4c97e871f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_fd174c06469b325677728b87890626442eeacd0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_8afe07384a93a5389d88516a1854a222a5793dcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_ebb34cb34d7f5b6fcd898b81c69c4de6ebc6f9d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_6a2fc1561435587feb92bb43bb0a0f0736d6e1c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_2d95691ec7217a4c38cdd7860f4088cc2423a314/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_fdeb356939e7084c125d7dae906e239ed1e578c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2213ca0ceb5a5310553f2af44d643afb4ccf0e59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_db5adb23d48c5ad3149b833cee6c3db641af0fd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_175a7af34bc2e58038718477281528a2da4fe97e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_edf4a460790063e5fb90a9b896342b34a02d0c78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e612932ca8f26e2f4b84b2c461a32acdb6c815e">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eb04b439d1d056e12c41bfeda147126c3c081bbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_e51731dbe92e545cd1906591173c542c2b2462af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_b7c89202fff1348335ccba2f9c5c4a39036cd67d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_015b3400364fa5cac8b1a2135776fba5ce438e1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_533c51e1442f36a57839e4f2a46b85aca9b84090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_cf58d4f51449717d31b33b0d06582bc34692d049/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a9fe7ddb38626b31f27f485717eb8d71d2e3e11">
+        <dex dex="/home/mcgalvao/AndroidStudioProjects/Oneforthebond/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f7e3a15f5aea6134753f03640600c7520a3a02d3/classes.dex" />
+    </item>
+
+</items>
